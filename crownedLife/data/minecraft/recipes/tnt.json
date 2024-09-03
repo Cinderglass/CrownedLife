@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "P#P",
+      "#X#",
+      "P#P"
+    ],
+    "key": {
+      "#": [
+        {
+          "item": "minecraft:sand"
+        },
+        {
+          "item": "minecraft:red_sand"
+        }
+      ],
+      "X": [
+      {
+        "item": "minecraft:gunpowder"
+      }
+    ],
+    "P": [
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "item": "minecraft:paper"
+    }
+  ]
+    },
+    "result": {
+      "id": "minecraft:tnt"
+    }
+  }
